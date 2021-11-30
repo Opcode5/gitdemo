@@ -7,6 +7,6 @@ public class Javafile
 	}
 	public int set()
 	{
-		return a;  			
+		return 500; 			
 	}
 }
